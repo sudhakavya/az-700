@@ -4,7 +4,6 @@
     "IsCustom":  true,
     "Description":  "Spektra Training Custom Role.",
     "Actions":  [
-                    "Microsoft.Authorization/*/read",
                     "Microsoft.Network/expressRouteCircuits/read",
                     "Microsoft.Network/expressRouteCircuits/write",
                     "Microsoft.Network/expressRouteCircuits/join/action",	
@@ -17,6 +16,7 @@
                     "Microsoft.Network/virtualNetworks/subnets/read",
                     "Microsoft.Network/virtualNetworks/subnets/write",
                     "Microsoft.Resources/deployments/validate/action",
+                    "Microsoft.Resources/deployments/write,"
                     "Microsoft.Network/publicIPAddresses/read",
                     "Microsoft.Network/publicIPAddresses/write",
                     "Microsoft.Network/publicIPAddresses/join/action",
@@ -25,7 +25,8 @@
                     "Microsoft.ClassicNetwork/virtualNetworks/gateways/listCircuitServiceKey/action"
                 ],
     "NotActions":  [
-
+                    "Microsoft.Authorization/*",
+                    "Microsoft.Authorization/*/read"
                    ]
 }
 
