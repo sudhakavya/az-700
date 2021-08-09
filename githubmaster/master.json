@@ -1,17 +1,17 @@
 [
   {
-    "Name": "AZ-700-Module03",
+    "Name": "AZ-700: M03- Configure an ExpressRoute Gateway and circuit ",
     "Language": "English",
     "BaseURL": "https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions",
-    "Files": [
+    "Files":[
       {
         "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%204%20Configure%20an%20ExpressRoute%20Gateway.md",
         "Order": 1
-      },
-      {
+       },
+       {
         "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%205%20Provision%20an%20ExpressRoute%20circuit.md",
         "Order": 2
+        }
+        ]
       }
-    ]
-  }
-]
+     ]
