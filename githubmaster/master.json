@@ -1,7 +1,6 @@
 [ {
   "Name": "M05-Az700",
   "Language": "English",
-  "BaseURL": "https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions",
   "Files": [
      {
         "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%204%20Configure%20an%20ExpressRoute%20Gateway.md",
