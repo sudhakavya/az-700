@@ -1,15 +1,17 @@
-[ {
-  "Name": "M05-Az700",
-  "Language": "English",
-  "Files": [
-     {
+[
+  {
+    "Name": "AI-100-Design-Implement-Azure-AISol - Module 1",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions",
+    "Files": [
+      {
         "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%204%20Configure%20an%20ExpressRoute%20Gateway.md",
         "Order": 1
-     },
-    {
-      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%205%20Provision%20an%20ExpressRoute%20circuit.md",
-      "Order": 2
-    }
-  ]
-} ]
-
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%205%20Provision%20an%20ExpressRoute%20circuit.md",
+        "Order": 2
+      }
+    ]
+  }
+]
