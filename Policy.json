@@ -1,0 +1,35 @@
+{
+	 "if": {
+	    "anyOf": [
+		 {
+			"not": {
+			  "anyOf": [
+				     {
+              "field": "type",
+              "like": "Microsoft.Network/publicIPAddresses/*"
+            },
+            {
+              "field": "type",
+              "like": "Microsoft.Network/virtualNetworks/*"
+            },
+            {
+              "field": "type",
+              "like": "Microsoft.Network/expressRouteCircuits/*"
+            },
+            {
+              "field": "type",
+              "like": "Microsoft.Network/virtualNetworkGateways/*"
+            },
+            {
+              "field": "type",
+              "in": [ "Microsoft.Network/publicIPAddresses", "Microsoft.Network/virtualNetworks", "Microsoft.Network/expressRouteCircuits", "Microsoft.Network/virtualNetworkGateways"]
+            }
+          ]
+			  }
+		  }
+	  ]
+	},
+	"then": {
+	  "effect": "deny"
+	}
+}
