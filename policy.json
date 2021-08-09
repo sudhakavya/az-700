@@ -20,9 +20,8 @@
                     "Microsoft.Network/publicIPAddresses/read",
                     "Microsoft.Network/publicIPAddresses/write",
                     "Microsoft.Network/publicIPAddresses/join/action",
-                    "Microsoft.ClassicNetwork/virtualNetworks/gateways/read",
-                    "Microsoft.ClassicNetwork/virtualNetworks/gateways/write",
-                    "Microsoft.ClassicNetwork/virtualNetworks/gateways/listCircuitServiceKey/action"
+                    "Microsoft.Network/virtualNetworkGateways/write",
+                    "Microsoft.Network/virtualNetworkGateways/read"
                 ],
     "NotActions":  [
                     "Microsoft.Authorization/*",
