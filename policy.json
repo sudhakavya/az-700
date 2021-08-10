@@ -18,6 +18,7 @@
                     "Microsoft.Resources/deployments/validate/action",
                     "Microsoft.Resources/deployments/validate/action",
                     "Microsoft.Resources/deployments/write",
+                    "Microsoft.Resources/deployments/read",
                     "Microsoft.Network/publicIPAddresses/read",
                     "Microsoft.Network/publicIPAddresses/write",
                     "Microsoft.Network/publicIPAddresses/join/action",
