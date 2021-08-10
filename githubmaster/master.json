@@ -5,11 +5,11 @@
     "BaseURL": "https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions",
     "Files":[
       {
-        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%204%20Configure%20an%20ExpressRoute%20Gateway.md",
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M05-Unit%204%20Deploy%20Azure%20application%20gateway.md",
         "Order": 1
        },
        {
-        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M03-Unit%205%20Provision%20an%20ExpressRoute%20circuit.md",
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M05-Unit%206%20Create%20a%20front%20door%20for%20a%20highly%20available%20web%20application%20using%20the%20Azure%20portal.md",
         "Order": 2
         }
         ]
