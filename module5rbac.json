@@ -11,6 +11,7 @@
                     "Microsoft.Network/virtualNetworks/join/action",
                     "Microsoft.Network/virtualNetworks/subnets/read",
                     "Microsoft.Network/virtualNetworks/subnets/write",
+                    "Microsoft.Network/virtualNetworks/subnets/join/action",
                     "Microsoft.Resources/deployments/validate/action",
                     "Microsoft.Resources/deployments/write",
                     "Microsoft.Resources/deployments/read",
