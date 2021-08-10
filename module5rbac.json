@@ -33,7 +33,7 @@
                     "Microsoft.Network/frontDoors/*",
                     "Microsoft.Insights/*",
                     "Microsoft.Web/sites/*",
-                    "Microsoft.Web/serverfarms/*
+                    "Microsoft.Web/serverfarms/*"
                 ],
     "NotActions":  [
                     "Microsoft.Authorization/*",
